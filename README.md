@@ -1,4 +1,4 @@
-Maximiliano Benitez
+<h1 align=center> **Maximiliano Benitez**
 MLO (Machine Learning Opeartions)
 Sistema de recomendación de videojuegos para usuarios
 
