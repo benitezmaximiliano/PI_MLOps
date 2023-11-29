@@ -1,5 +1,6 @@
-<h1 align=center> **Maximiliano Benitez**
-MLO (Machine Learning Opeartions)
+
+# <h1 align=center> **Maximiliano Benitez**
+### <h1 align=center> MLO (Machine Learning Opeartions)
 Sistema de recomendación de videojuegos para usuarios
 
 Introducción
