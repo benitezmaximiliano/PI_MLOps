@@ -9,7 +9,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 app = FastAPI()
 
 # Carga los datos parquet en un dataframe de pandas
-Tabla_API = pd.read_parquet('gzip\dfAPI.parquet')
+Tabla_API = pd.read_parquet('gzip/dfAPI.parquet')
 
 
 
